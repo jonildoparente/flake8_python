@@ -1,7 +1,7 @@
-from fila_normal import Filanormal
+from fila_normal import FilaNormal
 from fila_prioritaria import FilaPrioritaria
 
-fila = Filanormal()
+fila = FilaNormal()
 fila.atualiza_fila()
 fila.atualiza_fila()
 fila.atualiza_fila()
@@ -22,11 +22,12 @@ fp.atualiza_fila()
 fp.atualiza_fila()
 fp.atualiza_fila()
 
-fp.chama_cliente(cx1)
-fp.chama_cliente(cx3)
-fp.chama_cliente(cx2)
-fp.chama_cliente(cx2)
-fp.chama_cliente(cx1)
+print(fp.chama_cliente(cx1))
+print(fp.chama_cliente(cx3))
+print(fp.chama_cliente(cx2))
+print(fp.chama_cliente(cx2))
+print(fp.chama_cliente(cx1))
+fp.reseta_fila()
 
 est = fp.estatistica(27, 1055, "detail")
 
