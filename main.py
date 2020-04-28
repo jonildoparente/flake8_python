@@ -1,35 +1,22 @@
-from fila_normal import FilaNormal
-from fila_prioritaria import FilaPrioritaria
+from fabrica_fila import FabricaFila
 
-fila = FilaNormal()
-fila.atualiza_fila()
-fila.atualiza_fila()
-fila.atualiza_fila()
-fila.atualiza_fila()
+
+fila_nm = FabricaFila.pega_fila('normal')
+fila_nm.atualiza_fila()
+fila_nm.atualiza_fila()
+fila_nm.atualiza_fila()
+
+fila_pr = FabricaFila.pega_fila('prioritaria')
+fila_pr.atualiza_fila()
+fila_pr.atualiza_fila()
 
 cx1 = 1
 cx2 = 2
 cx3 = 3
 
-#print(fila.chama_cliente(1))
-#print(fila.chama_cliente(3))
 
-fp = FilaPrioritaria()
-fp.atualiza_fila()
-fp.atualiza_fila()
-fp.atualiza_fila()
-fp.atualiza_fila()
-fp.atualiza_fila()
-fp.atualiza_fila()
-
-print(fp.chama_cliente(cx1))
-#print(fp.chama_cliente(cx3))
-#print(fp.chama_cliente(cx2))
-#print(fp.chama_cliente(cx2))
-#print(fp.chama_cliente(cx1))
-fila.chama_cliente(cx3)
-fp.reseta_fila()
-
-est = fp.estatistica(27, 1055, "detail")
-
-print(est)
+print(fila_pr.chama_cliente(cx1))
+print(fila_pr.chama_cliente(cx3))
+print(fila_nm.chama_cliente(cx2))
+print(fila_pr.chama_cliente(cx2))
+print(fila_nm.chama_cliente(cx1))
