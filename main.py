@@ -28,6 +28,6 @@ fp.chama_cliente(cx2)
 fp.chama_cliente(cx2)
 fp.chama_cliente(cx1)
 
-est = fp.estatistica(27, 1050, "detail")
+est = fp.estatistica(27, 1054, "detail")
 
 print(est)
