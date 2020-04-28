@@ -2,10 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4dbf665-2746-4c21-8335-bc0344821829" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fabrica_fila.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/constantes.py" beforeDir="false" afterPath="$PROJECT_DIR$/constantes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mypy_cache/3.7/_ast.meta.json" beforeDir="false" afterPath="$PROJECT_DIR$/.mypy_cache/3.7/_ast.meta.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mypy_cache/3.7/_importlib_modulespec.meta.json" beforeDir="false" afterPath="$PROJECT_DIR$/.mypy_cache/3.7/_importlib_modulespec.meta.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mypy_cache/3.7/abc.meta.json" beforeDir="false" afterPath="$PROJECT_DIR$/.mypy_cache/3.7/abc.meta.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mypy_cache/3.7/ast.meta.json" beforeDir="false" afterPath="$PROJECT_DIR$/.mypy_cache/3.7/ast.meta.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mypy_cache/3.7/builtins.meta.json" beforeDir="false" afterPath="$PROJECT_DIR$/.mypy_cache/3.7/builtins.meta.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mypy_cache/3.7/codecs.meta.json" beforeDir="false" afterPath="$PROJECT_DIR$/.mypy_cache/3.7/codecs.meta.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mypy_cache/3.7/collections/__init__.meta.json" beforeDir="false" afterPath="$PROJECT_DIR$/.mypy_cache/3.7/collections/__init__.meta.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mypy_cache/3.7/collections/abc.meta.json" beforeDir="false" afterPath="$PROJECT_DIR$/.mypy_cache/3.7/collections/abc.meta.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mypy_cache/3.7/importlib/__init__.meta.json" beforeDir="false" afterPath="$PROJECT_DIR$/.mypy_cache/3.7/importlib/__init__.meta.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mypy_cache/3.7/importlib/abc.meta.json" beforeDir="false" afterPath="$PROJECT_DIR$/.mypy_cache/3.7/importlib/abc.meta.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mypy_cache/3.7/io.meta.json" beforeDir="false" afterPath="$PROJECT_DIR$/.mypy_cache/3.7/io.meta.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mypy_cache/3.7/mmap.meta.json" beforeDir="false" afterPath="$PROJECT_DIR$/.mypy_cache/3.7/mmap.meta.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mypy_cache/3.7/os/__init__.meta.json" beforeDir="false" afterPath="$PROJECT_DIR$/.mypy_cache/3.7/os/__init__.meta.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mypy_cache/3.7/os/path.meta.json" beforeDir="false" afterPath="$PROJECT_DIR$/.mypy_cache/3.7/os/path.meta.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mypy_cache/3.7/posix.meta.json" beforeDir="false" afterPath="$PROJECT_DIR$/.mypy_cache/3.7/posix.meta.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mypy_cache/3.7/sys.meta.json" beforeDir="false" afterPath="$PROJECT_DIR$/.mypy_cache/3.7/sys.meta.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mypy_cache/3.7/types.meta.json" beforeDir="false" afterPath="$PROJECT_DIR$/.mypy_cache/3.7/types.meta.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mypy_cache/3.7/typing.meta.json" beforeDir="false" afterPath="$PROJECT_DIR$/.mypy_cache/3.7/typing.meta.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mypy_cache/3.7/typing_extensions.meta.json" beforeDir="false" afterPath="$PROJECT_DIR$/.mypy_cache/3.7/typing_extensions.meta.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fila_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/fila_base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fila_prioritaria.py" beforeDir="false" afterPath="$PROJECT_DIR$/fila_prioritaria.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,10 +33,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
+            <state relative-caret-position="183">
               <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
@@ -27,8 +45,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fila_base.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            <state relative-caret-position="75">
+              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -39,10 +57,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fabrica_fila.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
+            <state relative-caret-position="425">
               <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
-                <element signature="e#0#4#0" expanded="true" />
+                <element signature="e#0#24#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -51,19 +69,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/constantes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="77">
+            <state relative-caret-position="200">
               <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fila_prioritaria.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="50">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <caret line="17" column="63" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
               <folding>
-                <element signature="e#0#30#0" expanded="true" />
+                <element signature="e#0#4#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -73,7 +91,7 @@
         <entry file="file://$PROJECT_DIR$/fila_normal.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -98,11 +116,11 @@
       <list>
         <option value="$PROJECT_DIR$/tox.ini" />
         <option value="$PROJECT_DIR$/fila_normal.py" />
-        <option value="$PROJECT_DIR$/fila_base.py" />
-        <option value="$PROJECT_DIR$/fila_prioritaria.py" />
         <option value="$PROJECT_DIR$/constantes.py" />
         <option value="$PROJECT_DIR$/fabrica_fila.py" />
         <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/fila_base.py" />
+        <option value="$PROJECT_DIR$/fila_prioritaria.py" />
       </list>
     </option>
   </component>
@@ -227,7 +245,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3797054" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.60556465" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -243,57 +261,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fila_prioritaria.py">
+    <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="183">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constantes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fila_normal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/fabrica_fila.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fila_base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        <state relative-caret-position="75">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/constantes.py">
+    <entry file="file://$PROJECT_DIR$/fila_prioritaria.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fabrica_fila.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="50">
+          <caret line="17" column="63" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
           <folding>
             <element signature="e#0#4#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
